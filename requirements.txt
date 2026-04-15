@@ -17,3 +17,4 @@ openai==1.57.0
 python-dotenv==1.0.1
 sentry-sdk[fastapi]==2.19.0
 boto3==1.35.0
+streamlit==1.36.0
